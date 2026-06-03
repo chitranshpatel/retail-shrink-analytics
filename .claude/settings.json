@@ -1,0 +1,11 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(mkdir -p \"/Users/chitransh/Documents/Side_Projects/woolworths dashboard rewamp/files/metro_dashboard/.streamlit\")",
+      "Bash(python -c \"import ast; ast.parse\\(open\\('app.py'\\).read\\(\\)\\); ast.parse\\(open\\('data.py'\\).read\\(\\)\\); print\\('syntax OK'\\)\")"
+    ],
+    "additionalDirectories": [
+      "/Users/chitransh/Documents/Side_Projects/woolworths dashboard rewamp/files/metro_dashboard"
+    ]
+  }
+}
