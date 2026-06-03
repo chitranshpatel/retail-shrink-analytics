@@ -8,6 +8,11 @@ dense, uniform data table into a triaged, drill-down dashboard.
 > sort, colour, flag and dollar figure behaves exactly as it would on real data.
 
 ---
+## Live demo
+
+[retail-shrink-analytics.streamlit.app](https://retail-shrink-analytics.streamlit.app)
+
+---
 
 ## What it does
 
